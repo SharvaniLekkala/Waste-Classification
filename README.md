@@ -1,7 +1,7 @@
 # Waste Classification Using CNN
 
 ## Overview
-This project focuses on classifying waste into two categories: **Organic** and **Recyclable** using a **Convolutional Neural Network (CNN)**. The dataset used is from Kaggle: `techsash/waste-classification-data`. The implementation includes **data preprocessing, model training, evaluation, and prediction** using TensorFlow and OpenCV.
+This project focuses on classifying waste into two categories: **Organic** and **Recyclable** using a **Convolutional Neural Network (CNN)**. The dataset used is from Kaggle. The implementation includes **data preprocessing, model training, evaluation, and prediction** using TensorFlow and OpenCV.
 
 ## Dataset
 The dataset consists of:
